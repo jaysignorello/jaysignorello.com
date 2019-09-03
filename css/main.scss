@@ -2,3 +2,36 @@
 ---
 
 @import 'bootstrap/bootstrap';
+
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+nav.container-fluid { border-top: #008ff9 5px solid; }
+
+footer {
+  background: #008ff9;
+  color: #ffffff6b;
+}
+
+h1.site-title { font-family: 'Lato', cursive; }
+p.site-description {
+  color: #666;
+  font-family: "Karla", sans-serif;
+  font-weight: normal;
+  font-size: 0.625rem;
+  letter-spacing: 0.15em;
+  line-height: 1;
+  margin: 0.25em 0 0;
+  text-transform: uppercase;
+
+}
+
+.social-sites li { border: 0; padding: 10px;}
+.social-sites li a { color: #6c757d; }
+.social-linkedin a:hover { color: #0077B5; }
+.social-github a:hover { color: #000000; }
+.social-twitter a:hover { color: #1DA1F2; }
+.social-instagram a:hover { color: #C13584; }
+
+.about h2 { font-size: 1.5rem; }
