@@ -1,16 +1,22 @@
 ---
 ---
 
+$body-bg-color: #008ff9;
+
 @import 'bootstrap/bootstrap';
 
 body {
   font-family: 'Roboto', sans-serif;
+  background: $body-bg-color;
 }
 
-nav.container-fluid { border-top: #008ff9 5px solid; }
+nav.container-fluid { border-top: $body-bg-color 5px solid; }
+
+main {
+  background: #FFFFFF;
+}
 
 footer {
-  background: #008ff9;
   color: #ffffff6b;
 }
 
