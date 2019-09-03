@@ -1,9 +1,7 @@
 # Site settings
-title:
-email:
-author:
-description:
-url:
+title: Jay Signorello
+author: Jay Signorello
+description: Entrepreneur & Internet Technologist
 
 # Build settings
 sass:
