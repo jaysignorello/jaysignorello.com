@@ -3,6 +3,17 @@ title: "Don’t Just Evaluate Candidates on Skills"
 categories:
   - Management
 ---
+
+
+<p class="notice--info">
+  <img src="/assets/img/97_thinks_ever_manager_should_know.jpeg" width="100px" class="align-left" />
+
+  This essay  was published in <a href="https://www.amazon.com/Things-Every-Engineering-Manager-Should-ebook/dp/B081TPX6NS" target="_blank">97 Things Every Engineering Manager Should Know: Collective Wisdom from the Experts</a>.
+
+  <br class="cf" />
+</p>
+
+
 The penalties for hiring the wrong people can be enormous. So it’s critical that you, as a manager, put a great deal of effort into creating and continuously refining your interview process with the goal of finding exceptional people. In the pursuit of finding great people, your focus areas for evaluating candidates will be one of the most important ways to differentiate between the best and worst candidates.
 
 It’s not uncommon for a new manager to focus exclusively on skills required for the position. They craft their tests to determine if the candidate has knowledge in a particular programming language, framework, and other technical areas. As they begin interviewing, they’ll get a false sense of security when they find many people who can’t complete the test, thinking that they’re doing a good job of filtering out poor candidates. Then, one candidate will come along and breeze right through the test. They think to themselves, “Wow, this person must be amazing”. So they quickly hire them.
