@@ -3,8 +3,6 @@ title: "Don’t Just Evaluate Candidates on Skills"
 categories:
   - Management
 ---
-
-
 <p class="notice--info">
   <img src="/assets/img/97_thinks_ever_manager_should_know.jpeg" width="100px" class="align-left" />
 
