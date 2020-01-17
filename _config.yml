@@ -109,8 +109,8 @@ analytics:
 author:
   name             : "Jay Signorello"
   avatar           : "/assets/img/me.jpg"
-  bio              :
-  location         : "New Jersey"
+  bio              : "Entrepreneur &<br /> Internet Technologist"
+  location         :
   email            :
   links:
     - label: "Twitter"
