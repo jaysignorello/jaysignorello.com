@@ -2,7 +2,7 @@
 title: "Building Strong Team Relationships While Working From Home"
 categories:
   - Management
-  - Remote Work
+  - Remote-Work
 ---
 Working from home during the COVID-19 pandemic is a rather stressful and anxious time, even for someone like me, who has spent a good portion of my career working from home and managing distributed teams.
 
