@@ -4,6 +4,8 @@ source "https://rubygems.org"
 
 gem "tzinfo-data"
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
+gem "activesupport", "~> 4.1.11"
+# gem "json", "~> 2.0"
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
@@ -13,5 +15,5 @@ group :jekyll_plugins do
   gem "jekyll-feed"
   gem "jemoji"
   gem "jekyll-include-cache"
-  gem "jekyll-algolia"
+  # gem "jekyll-algolia"
 end
