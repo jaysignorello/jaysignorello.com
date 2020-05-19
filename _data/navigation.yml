@@ -2,6 +2,8 @@
 main:
   - title: "Blog"
     url: /blog/
+  - title: "Book Recommendations"
+    url: /book-recommendations/
   - title: "About"
     url: /about/
   - title: "Contact"
