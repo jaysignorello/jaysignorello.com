@@ -2,9 +2,9 @@
 permalink: /about/
 title: "About"
 ---
-Jay Signorello is an experienced entrepreneur and technology leader.
+Jay Signorello is an experienced entrepreneur and technology leader, with deep experience building and managing remote teams.
 He co-founded <a href="https://www.nakedapartments.com" target="_blank">Naked Apartments</a> in 2009, serving as CTO. Jay and his team
-bootstrapped Naked Apartments into New York City’s largest rentals-only
+bootstrapped Naked Apartments, an all-remote company, into New York City’s largest rentals-only
 platform. Naked Apartments was <a href="https://www.geekwire.com/2016/zillow-continues-aggressive-acquisition-path-pays-13m-to-purchase-naked-apartments/" target="_blank">acquired by Zillow Group</a> as it's
 fifth consumer brand in 2016.
 

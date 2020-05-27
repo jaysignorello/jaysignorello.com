@@ -20,7 +20,7 @@ title                    : "Jay Signorello"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Jay Signorello"
-description              : "Entrepreneur & Internet Technologist."
+description              : "Entrepreneur, Remote Work Advocate, and Internet Technologist."
 url                      : "https://jaysignorello.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "Jay Signorello"
   avatar           : "/assets/img/me.jpg"
-  bio              : "Entrepreneur &<br /> Internet Technologist"
+  bio              : "Entrepreneur, <br />Remote Work Advocate, <br />& Internet Technologist"
   location         :
   email            :
   links:
