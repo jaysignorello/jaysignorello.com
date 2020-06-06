@@ -23,20 +23,27 @@ In no particular order, here are some of my favorite books that have helped me o
 
 ## Management
 
+#### Basics
+
 * [Managing For Dummies](https://www.goodreads.com/book/show/455913.Managing_for_Dummies)
-* [Managing Humans: Biting and Humorous Tales of a Software Engineering Manager](https://www.goodreads.com/book/show/1317946.Managing_Humans)
 * [Radical Candor: Be a Kick-Ass Boss Without Losing Your Humanity](https://www.goodreads.com/book/show/32809138-radical-candor)
 * [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change](https://www.goodreads.com/book/show/33369254-the-manager-s-path)
+* [Managing Humans: Biting and Humorous Tales of a Software Engineering Manager](https://www.goodreads.com/book/show/1317946.Managing_Humans)
+
+#### Advanced
 * [The Alliance: Managing Talent in the Networked Age](https://www.goodreads.com/book/show/20763746-the-alliance)
 * [Toyota Kata: Managing People for Improvement, Adaptiveness and Superior Results](https://www.goodreads.com/book/show/6736366-toyota-kata)
 * [First, Break All the Rules: What the World's Greatest Managers Do Differently](https://www.goodreads.com/book/show/50937.First_Break_All_the_Rules)
 
 ## Leadership
 
-* [Extreme Ownership: How U.S. Navy SEALs Lead and Win](https://www.goodreads.com/book/show/23848190-extreme-ownership)
-* [The Dichotomy of Leadership: Balancing the Challenges of Extreme Ownership to Lead and Win](https://www.goodreads.com/book/show/38714388-the-dichotomy-of-leadership)
+#### Basics
 * [Start with Why: How Great Leaders Inspire Everyone to Take Action](https://www.goodreads.com/book/show/7108725-start-with-why)
 * [The Coaching Habit: Say Less, Ask More & Change the Way You Lead Forever](https://www.goodreads.com/book/show/29342515-the-coaching-habit)
+
+#### Advanced
+* [Extreme Ownership: How U.S. Navy SEALs Lead and Win](https://www.goodreads.com/book/show/23848190-extreme-ownership)
+* [The Dichotomy of Leadership: Balancing the Challenges of Extreme Ownership to Lead and Win](https://www.goodreads.com/book/show/38714388-the-dichotomy-of-leadership)
 
 ## Product Development
 
@@ -78,11 +85,13 @@ In no particular order, here are some of my favorite books that have helped me o
 
 * [Mindset: The New Psychology of Success](https://www.goodreads.com/book/show/40745.Mindset)
 * [The Power of Habit: Why We Do What We Do in Life and Business](https://www.goodreads.com/book/show/12609433-the-power-of-habit)
+* [The Gifts of Imperfection](https://www.goodreads.com/book/show/7015403-the-gifts-of-imperfection)
+
+#### Important reading for management & leadership
+* [Switch: How to Change Things When Change Is Hard](https://www.goodreads.com/book/show/6570502-switch)
+* [Influence: The Psychology of Persuasion](https://www.goodreads.com/book/show/28815.Influence)
 * [Thinking, Fast and Slow](https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow)
 * [The Undoing Project: A Friendship That Changed Our Minds](https://www.goodreads.com/book/show/30334134-the-undoing-project)
-* [Switch: How to Change Things When Change Is Hard](https://www.goodreads.com/book/show/6570502-switch)
-* [The Gifts of Imperfection](https://www.goodreads.com/book/show/7015403-the-gifts-of-imperfection)
-* [Influence: The Psychology of Persuasion](https://www.goodreads.com/book/show/28815.Influence)
 
 ## Philosophy
 
