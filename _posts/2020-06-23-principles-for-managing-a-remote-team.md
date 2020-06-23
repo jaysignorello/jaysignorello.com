@@ -1,5 +1,6 @@
 ---
 title: "Principles for Managing a Remote Team"
+description: "These are the lessons I've learned from the experiences of over a decade of managing remote teams, compiled into a list of core principles."
 categories:
   - Management
   - Remote-Work
