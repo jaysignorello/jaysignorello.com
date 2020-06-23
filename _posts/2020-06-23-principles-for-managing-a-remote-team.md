@@ -4,6 +4,8 @@ description: "These are the lessons I've learned from the experiences of over a 
 categories:
   - Management
   - Remote-Work
+header:
+  og_image: /assets/img/remote-manager-with-team.jpg
 ---
 ![alt text](/assets/img/remote-manager-with-team.jpg "Photo by Chris Montgomery on Unsplash")
 
