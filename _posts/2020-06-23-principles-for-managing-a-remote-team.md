@@ -54,7 +54,8 @@ It's counterintuitive, but remote work causes people to overwork, not slack off.
 #### 3.3) Set clear written expectations around work hours
 
 To avoid overwork, make sure to be clear about how many hours you expect employees to work remotely and how to handle flexibility in their schedule.
-3.4) Demand employees take time off to recharge
+
+#### 3.4) Demand employees take time off to recharge
 A lot of companies offer unlimited vacation days. Again, an empty promise in most cases, causing employees to take way less time off. Add in remote work and you've got a recipe for burnout.
 
 The organization needs to encourage and at times force employees to take downtime.
