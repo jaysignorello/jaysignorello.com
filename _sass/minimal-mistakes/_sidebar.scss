@@ -16,7 +16,7 @@
     transform: translate3d(0, 0, 0);
     display: none;
   }
-  
+
   @include breakpoint($large) {
     float: right;
     width: calc(#{$right-sidebar-width-narrow} - 1em);
@@ -70,6 +70,10 @@
       height: 20px;
     }
   }
+}
+
+.layout--home .sidebar {
+  display: block !important;
 }
 
 .sidebar__right {
