@@ -30,11 +30,12 @@ title: "CFBNJ FSTA Resources"
 * [The Thank You Economy](https://www.goodreads.com/book/show/9203287-the-thank-you-economy)
 
 ### Money
+* [Personal Finance for Dummies](https://www.goodreads.com/book/show/3604.Personal_Finance_for_Dummies)
 * [Investing For Dummies](https://www.goodreads.com/book/show/171067.Investing_For_Dummies)
-* [The Bogleheads' Guide to Retirement Planning](https://www.goodreads.com/book/show/6479781-the-bogleheads-guide-to-retirement-planning)
 
-## Career Development Templates
+## Career Development
 
+* [Learn How to Ace a Job Interview](https://www.thebalancecareers.com/job-interviews-4161912)
 * [Simple Career Development Templates](https://simplicable.com/new/career-plan)
 * [Career Development Template](http://postgradenvironments.com/wp-content/uploads/2017/09/career-plan-template.pdf)
 
