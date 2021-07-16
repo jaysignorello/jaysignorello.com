@@ -3,6 +3,10 @@ permalink: /cfbnj-fsta-resources/
 title: "CFBNJ FSTA Resources"
 ---
 
+## Presentation
+
+* [Money & Your Career](https://docs.google.com/presentation/d/1WnXAri7BA5f67p0qMyW1oMOg2sZmTXE9oDmMHGwfzJc/edit?usp=sharing)
+
 ## Book Recommendations
 
 ### Mindset
@@ -24,6 +28,7 @@ title: "CFBNJ FSTA Resources"
 * [Betty Crocker's Cookbook](https://www.goodreads.com/book/show/1127996.Betty_Crocker_s_Cookbook)
 
 ### Business
+* [The Entrepreneur’s Guide to Building a Successful Business](https://efmdglobal.org/wp-content/uploads/The-Entrepreneurs-Guide-to-Building-a-Successful-Business-2017.pdf)
 * [The Personal MBA: Master the Art of Business](https://www.goodreads.com/book/show/9512985-the-personal-mba)
 * [Restaurant Success by the Numbers: A Money-Guy's Guide to Opening the Next Hot Spot](https://www.goodreads.com/book/show/1225041.Restaurant_Success_by_the_Numbers)
 * [Your First Restaurant - An Essential Guide: How to plan, research, analyze, finance, open, and operate your own wildly-succesful eatery.](https://www.goodreads.com/book/show/34001876-your-first-restaurant---an-essential-guide)
@@ -41,6 +46,7 @@ title: "CFBNJ FSTA Resources"
 
 ## Business Planning Resources
 
+* [Lean Canvas](https://neoschronos.com/assets/lean-canvas.pdf)
 * [Writing a business plan](https://www.sba.gov/business-guide/plan-your-business/write-your-business-plan)
 * [How to write a business plan](https://articles.bplans.com/how-to-write-a-business-plan/)
 * [How to Write a Restaurant Business Plan](https://www.thebalancesmb.com/how-to-write-a-restaurant-business-plan-2888455)
