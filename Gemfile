@@ -4,7 +4,7 @@ source "https://rubygems.org"
 
 gem "tzinfo-data"
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
-gem "activesupport", "~> 4.1.11"
+gem "activesupport", "~> 6.1.7"
 # gem "json", "~> 2.0"
 
 # If you have any plugins, put them here!
