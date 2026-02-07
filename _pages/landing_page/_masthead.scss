@@ -1,0 +1,19 @@
+div.masthead {
+  border-top: solid 1px #87e1e6;
+  position: relative;
+  background-color: $teal;
+
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+
+  h1 {
+    font-size: 2rem;
+  }
+  @media (min-width: 768px) {
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+    h1 {
+      font-size: 3rem;
+    }
+  }
+}

@@ -1,0 +1,77 @@
+
+.header-hero {
+  height: 550px;
+  background: url('/images/user-toilet-landscape.jpg') no-repeat center;
+  @include background-cover;
+
+  &.header-hero-pages-about {
+    background-image: url('/images/masthead-pro-desk.jpg');
+  }
+
+  &.header-hero-pages-careers {
+    background-image: url('/images/team-in-office.jpg');
+  }
+
+  &.header-hero-pages-appliance-repair {
+    background-image: url('/images/masthead-appliance-repair.jpg');
+  }
+
+  &.header-hero-pages-index {
+    background-position: bottom;
+  }
+}
+
+@include media-breakpoint-up(xs) {
+  .header-hero { height: 350px; }
+}
+@include media-breakpoint-up(sm) {
+  .header-hero { height: 450px; }
+}
+@include media-breakpoint-up(md) {
+  .header-hero { height: 600px; }
+}
+@include media-breakpoint-up(lg) {
+  .header-hero { height: 600px; }
+}
+
+header {
+  .overlay {
+    position: absolute;
+    background-color: #FFF;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+    opacity: 0.90;
+    border-top: 1px solid white;
+  }
+
+  .navbar {
+    padding: 0;
+  }
+
+  .navbar-toggler {
+    border: 0;
+    padding: 0;
+    .fa-bars {
+      font-size: 1.50rem;
+      color: $gray-400;
+    }
+  }
+
+  .navbar-collapse {
+    z-index: $zindex-tooltip;
+  }
+
+  #chat-nav-cta {
+    background-color: $teal-100;
+    color: #777676;
+    border-color: $teal;
+  }
+}
+
+.masthead-min {
+  padding-top: 30px;
+  background-color: $teal;
+  margin-bottom: 5px;
+}

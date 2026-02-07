@@ -1,0 +1,25 @@
+
+.how-it-works {
+  .how-it-works-icon-item {
+
+  }
+
+  .how-it-works-icon {
+    font-size: 2.5rem;
+  }
+
+  .how-it-works-cta {
+    background-color: $gray-200;
+
+    .btn {
+      background-color: $teal;
+      color: $white;
+    }
+  }
+}
+
+
+.schedule-chate-call-to-action {
+  position: relative;
+  background-color: $teal;
+}
