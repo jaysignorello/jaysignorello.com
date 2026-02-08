@@ -19,6 +19,7 @@ module.exports = {
       fontFamily: {
         serif: ['Libre Baskerville', 'Georgia', 'serif'],
         sans:  ['Inter', 'system-ui', 'sans-serif'],
+        handwritten: ['Ms Madi', 'cursive'],
       },
       maxWidth: {
         prose: '768px',
