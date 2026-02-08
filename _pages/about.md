@@ -2,37 +2,16 @@
 permalink: /about/
 title: "About"
 ---
-Jay Signorello is an experienced entrepreneur and technology leader, with deep experience building and managing remote teams.
-He co-founded <a href="https://www.nakedapartments.com" target="_blank">Naked Apartments</a> in 2009, serving as CTO. Jay and his team
-bootstrapped Naked Apartments, an all-remote company, into New York City’s largest rentals-only
-platform. Naked Apartments was <a href="https://www.geekwire.com/2016/zillow-continues-aggressive-acquisition-path-pays-13m-to-purchase-naked-apartments/" target="_blank">acquired by Zillow Group</a> as it's
-fifth consumer brand in 2016.
+I'm a product-obsessed technical leader who loves building things that make people's lives tangibly better. I've always been drawn to the overlap between great product and great engineering — building things that work beautifully, scale cleanly, and actually get used. I care as much about how something feels as how it's built.
 
-At Zillow Group, Jay held the position of VP of Engineering,
-overseeing engineering management and
-product teams for three NYC focused brands
-(StreetEasy, Naked Apartments, and Out East).
+I co-founded Naked Apartments in 2009, bootstrapped it to profitability with a fully remote team (rare at the time), and grew it into New York City's largest rentals-only platform. Naked Apartments was <a href="https://www.geekwire.com/2016/zillow-continues-aggressive-acquisition-path-pays-13m-to-purchase-naked-apartments/" target="_blank">acquired by Zillow Group</a> in 2016, where I stayed on as VP of Engineering leading 90+ engineers across their NYC brands (StreetEasy, Naked Apartments, and Out East).
 
-Between 2006 and 2009, Jay managed engineering teams at Pepperjam
-(acquired by Ebay) and Heavy.com. At Pepperjam, he was the
-Director of Software Development, where he led the team to
-build several products, most notably the Pepperjam Affiliate
- Network platform. At Heavy.com, Jay was Lead developer,
- spearheading the development of an innovative video ad
- network platform named HuskyMedia.
+Before Naked Apartments, I managed engineering teams at Pepperjam (acquired by eBay) and Heavy.com, and before that ran my own web development consulting business from 2000 to 2006.
 
-From 2000 to 2006, Jay owned and operated his first business,
-DWS Designs, a web development consulting business, which focused on
-creating Content Management Systems (CMS) for clients
+After Zillow, I stepped away from big orgs to get back to what I love: building, experimenting, and moving fast.
 
-Mostly recently, Jay left Zillow Group and is in the early stages of his next startup.
-From time to time, he advises founders of startups on management,
-product strategy, and running lean.
+In addition to building, I invest in early-stage infrastructure, data, and machine learning startups through <a href="https://www.irregex.vc/" target="_blank">IrregEx</a>. We back teams with strong technical foundations and product instincts.
 
-Jay holds a Bachelor's in Information Sciences and Technology
-from Pennsylvania State University.
+I'm always up for a conversation with founders, builders, or anyone chasing something ambitious — whether that means lending a hand through advisory, strategic consulting, or exploring what's next.
 
-He resides in Northern New Jersey with his wife and three beautiful kids.
-He has a passion for reading and building physical things
-(currently fine wood furniture). Most of all,
-he loves to play with his rambunctious kids.
+I hold a Bachelor's in Information Sciences and Technology from Pennsylvania State University. I live in Northern New Jersey with my wife and three kids. Outside of work, I have a passion for reading and building physical things (currently fine wood furniture).
