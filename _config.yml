@@ -111,9 +111,6 @@ author:
   location         :
   email            :
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://x.com/jaysignorello"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://linkedin.com/in/jaysignorello"
@@ -123,13 +120,13 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/jay.signorello"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://x.com/jaysignorello"
 
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://x.com/jaysignorello"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://linkedin.com/in/jaysignorello"
@@ -139,6 +136,9 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/jay.signorello"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://x.com/jaysignorello"
 
 
 # Reading Files
