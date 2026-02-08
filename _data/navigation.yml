@@ -1,10 +1,8 @@
 # main links
 main:
-  - title: "Blog"
+  - title: "Posts"
     url: /blog/
   - title: "Book Recommendations"
     url: /book-recommendations/
   - title: "About"
     url: /about/
-  # - title: "Contact"
-  #   url: /contact/
