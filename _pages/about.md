@@ -2,6 +2,8 @@
 permalink: /about/
 title: "About"
 ---
+<img src="{{ site.author.avatar | relative_url }}?v={{ site.time | date: '%s' }}" alt="{{ site.author.name }}" class="w-40 h-40 rounded-full object-cover border-4 border-card shadow-md mx-auto md:float-right md:ml-6 md:mb-4 not-prose" />
+
 I'm a product-obsessed technical leader who loves building things that make people's lives tangibly better. I've always been drawn to the overlap between great product and great engineering — building things that work beautifully, scale cleanly, and actually get used. I care as much about how something feels as how it's built.
 
 I co-founded Naked Apartments in 2009, bootstrapped it to profitability with a fully remote team (rare at the time), and grew it into New York City's largest rentals-only platform. Naked Apartments was <a href="https://www.geekwire.com/2016/zillow-continues-aggressive-acquisition-path-pays-13m-to-purchase-naked-apartments/" target="_blank">acquired by Zillow Group</a> in 2016, where I stayed on as VP of Engineering leading 90+ engineers across their NYC brands (StreetEasy, Naked Apartments, and Out East).

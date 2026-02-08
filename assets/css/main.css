@@ -1209,6 +1209,9 @@ video {
 .h-auto {
   height: auto;
 }
+.h-40 {
+  height: 10rem;
+}
 .w-32 {
   width: 8rem;
 }
@@ -1540,6 +1543,18 @@ video {
   }
 }
 @media (min-width: 768px) {
+
+  .md\:float-right {
+    float: right;
+  }
+
+  .md\:mb-4 {
+    margin-bottom: 1rem;
+  }
+
+  .md\:ml-6 {
+    margin-left: 1.5rem;
+  }
 
   .md\:flex {
     display: flex;
