@@ -8,7 +8,7 @@ layout: default
     <div class="flex flex-col md:flex-row items-center md:items-start gap-8 md:gap-12">
       <!-- Avatar -->
       {% if site.author.avatar %}
-        <img src="{{ site.author.avatar | relative_url }}" alt="{{ site.author.name }}" class="w-32 h-32 rounded-full object-cover border-4 border-card shadow-md flex-shrink-0">
+        <img src="{{ site.author.avatar | relative_url | cache_bust }}" alt="{{ site.author.name }}" class="w-32 h-32 rounded-full object-cover border-4 border-card shadow-md flex-shrink-0">
       {% endif %}
 
       <div class="text-center md:text-left">
