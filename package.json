@@ -1,0 +1,16 @@
+{
+  "name": "jaysignorello-com",
+  "private": true,
+  "scripts": {
+    "build:css": "postcss src/main.css -o assets/css/main.css --env production",
+    "watch:css": "postcss src/main.css -o assets/css/main.css --watch"
+  },
+  "devDependencies": {
+    "@tailwindcss/typography": "^0.5",
+    "autoprefixer": "^10",
+    "cssnano": "^7.1.2",
+    "postcss": "^8",
+    "postcss-cli": "^11",
+    "tailwindcss": "^3"
+  }
+}

@@ -4,3 +4,7 @@ _site/
 .jekyll-cache/
 
 .DS_Store
+
+node_modules/
+
+.claude

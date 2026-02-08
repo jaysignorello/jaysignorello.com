@@ -1,0 +1,55 @@
+<nav class="sticky top-0 z-50 bg-beige/90 backdrop-blur-md border-b border-border">
+  <div class="max-w-6xl mx-auto px-6 py-4 flex items-center justify-between">
+    <a href="{{ '/' | relative_url }}" class="font-serif text-xl font-bold text-brown hover:text-accent-dark transition-colors no-underline">
+      {{ site.title }}
+    </a>
+
+    <!-- Desktop nav -->
+    <ul class="hidden md:flex items-center gap-8">
+      {% for link in site.data.navigation.main %}
+        <li>
+          <a href="{{ link.url | relative_url }}" class="text-brown-light hover:text-accent-dark font-sans text-sm font-medium transition-colors no-underline">
+            {{ link.title }}
+          </a>
+        </li>
+      {% endfor %}
+    </ul>
+
+    <!-- Mobile hamburger button -->
+    <button id="mobile-menu-btn" class="md:hidden text-brown p-2" aria-label="Toggle menu">
+      <svg id="menu-icon-open" class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"/>
+      </svg>
+      <svg id="menu-icon-close" class="w-6 h-6 hidden" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"/>
+      </svg>
+    </button>
+  </div>
+
+  <!-- Mobile menu -->
+  <div id="mobile-menu" class="hidden md:hidden border-t border-border bg-beige">
+    <ul class="px-6 py-4 space-y-4">
+      {% for link in site.data.navigation.main %}
+        <li>
+          <a href="{{ link.url | relative_url }}" class="block text-brown-light hover:text-accent-dark font-sans text-base font-medium transition-colors no-underline">
+            {{ link.title }}
+          </a>
+        </li>
+      {% endfor %}
+    </ul>
+  </div>
+</nav>
+
+<script>
+(function() {
+  var btn = document.getElementById('mobile-menu-btn');
+  var menu = document.getElementById('mobile-menu');
+  var iconOpen = document.getElementById('menu-icon-open');
+  var iconClose = document.getElementById('menu-icon-close');
+  btn.addEventListener('click', function() {
+    menu.classList.toggle('hidden');
+    iconOpen.classList.toggle('hidden');
+    iconClose.classList.toggle('hidden');
+  });
+})();
+</script>
