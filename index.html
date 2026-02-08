@@ -11,7 +11,7 @@ layout: home
 <h2>Publications</h2>
 
 <div class="flex flex-col sm:flex-row gap-6 not-prose">
-  <img src="{{ '/assets/img/97_thinks_ever_manager_should_know.jpeg' | relative_url | cache_bust }}" alt="97 Things Every Engineering Manager Should Know" class="w-40 h-auto rounded-lg shadow-sm flex-shrink-0" />
+  <img src="{{ '/assets/img/97_thinks_ever_manager_should_know.jpeg' | relative_url }}?v={{ site.time | date: '%s' }}" alt="97 Things Every Engineering Manager Should Know" class="w-40 h-auto rounded-lg shadow-sm flex-shrink-0" />
   <div>
     <a href="https://www.amazon.com/Things-Every-Engineering-Manager-Should-ebook/dp/B081TPX6NS" target="_blank" class="text-accent-dark hover:text-accent font-medium underline underline-offset-2">
       97 Things Every Engineering Manager Should Know: Collective Wisdom from the Experts
