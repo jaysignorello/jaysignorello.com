@@ -6,7 +6,7 @@ categories:
 header:
   og_image: /assets/img/career-kids-then-and-now.jpg
 ---
-![alt text](/assets/img/career-kids-then-and-now.jpg "Photo by Chris Montgomery on Unsplash")
+![alt text](/assets/img/career-kids-then-and-now.jpg)
 
 Six years ago, I walked away from a great role at Zillow.
 
