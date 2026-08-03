@@ -1,5 +1,5 @@
 ---
-title: "What Living a Sedentary Lifestyle Taught Me About Using AI Too Much"
+title: "What Strength Training Taught Me About Using AI Too Much"
 description: "A founder's lesson from years of sedentary neglect—and how the same pattern is now showing up in AI overuse: less recall, less creativity, less depth."
 categories:
   - Entrepreneur
