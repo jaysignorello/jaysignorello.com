@@ -10,7 +10,7 @@ header:
 
 For years, I neglected my physical health, and I paid the price. 
 
-My strength disappeared, which led to injuries. My endurance eroded. My health markers trended in the wrong direction. I was constantly tired, drained of energy, and stress had nowhere to go.
+My physical strength disappeared, which led to injuries. My endurance eroded. My health markers trended in the wrong direction. I was constantly tired, drained of energy, and stress had nowhere to go.
 
 I made a lot of excuses for myself. Building a startup, an acquisition, meetings for 7+ hours day, kids, etc.
 
